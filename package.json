@@ -1,6 +1,6 @@
 {
   "name": "publish-only-bot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "",
   "author": "Gawain Lynch <gawain.lynch@gmail.com> (https://github/com/GawainLynch/probot-publish-only)",
   "license": "ISC",
