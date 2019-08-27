@@ -23,11 +23,11 @@ module.exports = (robot) => {
 }
 
 async function addComment (context, comment) {
-  context.github.issues.createComment(context.issue({body: comment}))
+  context.github.issues.createComment(context.issue({ body: comment }))
 }
 
 async function close (context, params) {
-  const closeParams = Object.assign({}, params, {state: 'closed'})
+  const closeParams = Object.assign({}, params, { state: 'closed' })
 
   return context.github.issues.edit(closeParams)
 }
