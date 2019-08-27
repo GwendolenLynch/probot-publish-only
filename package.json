@@ -10,12 +10,12 @@
     "test": "jest && standard"
   },
   "dependencies": {
-    "probot": "^3.0.0"
+    "probot": "^9.3.2"
   },
   "devDependencies": {
-    "jest": "^21.2.1",
-    "localtunnel": "^1.8.2",
-    "standard": "^10.0.3"
+    "jest": "^24.9.0",
+    "localtunnel": "^1.9.2",
+    "standard": "^14.0.2"
   },
   "engines": {
     "node": ">= 7.7.0",
