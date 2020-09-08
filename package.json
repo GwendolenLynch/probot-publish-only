@@ -10,10 +10,10 @@
     "test": "jest && standard"
   },
   "dependencies": {
-    "probot": "^9.11.5"
+    "probot": "^10.2.0"
   },
   "devDependencies": {
-    "jest": "^26.0.1",
+    "jest": "^26.4.2",
     "localtunnel": "^2.0.0",
     "standard": "^14.3.4"
   },
